@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.util.List;
 
 @SpringBootTest
-public class TaskListRepositoryTestSuite {
+class TaskListRepositoryTestSuite {
     @Autowired
     private TaskListRepository taskListRepository;
 
@@ -29,8 +29,7 @@ public class TaskListRepositoryTestSuite {
         //Then
         Assertions.assertEquals(1, readTasks.size());
         //CleanUp
-        int id = readTasks.get(0).getId();
-        taskListRepository.deleteById(id);
+        taskListRepository.delete(taskList);
     }
 
 }
