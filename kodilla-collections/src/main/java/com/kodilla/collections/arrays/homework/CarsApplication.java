@@ -12,44 +12,25 @@ import java.util.Random;
 
 public class CarsApplication {
 
-
-    private static Car drawCar() {
-        Random random = new Random();
-        int car = random.nextInt(3);
-        int getSpeed = getSpeed(random);
-        if (car == 0)
-            return new Ford(getSpeed);
-        else if (car == 1)
-            return new Opel(getSpeed);
-        else
-            return new Volkswagen(getSpeed);
-    }
-
-    private static int getRandomAmountOfCars() {
-        Random random = new Random();
-        int minCars = 1;
-        int maxCars = 15;
-        return random.nextInt((maxCars + 1 - minCars) + minCars);
-    }
-
+    private static final Random random = new Random();
 
     public static void main(String[] args) {
-        Car[] cars = new Car[15];
-        for (int i = 0; i < getRandomAmountOfCars(); i++) {
+        Car[] cars = new Car[random.nextInt(15) + 1];
+        for (int i = 0; i < cars.length; i++)
             cars[i] = drawCar();
-            for (Car car: cars)
-                CarUtils.describeCar(car);
-        }
-
+        for (Car car : cars)
+            CarUtils.describeCar(car);
     }
 
-
-
-    private static int getSpeed(Random random){
-        int maxSpeed = 350;
-        return random.nextInt(maxSpeed + 1);
+    private static Car drawCar() {
+        int drawCar = random.nextInt(3);
+        int randomNumberOfCars = random.nextInt(100) + 80;
+        if (drawCar == 0)
+            return new Ford(randomNumberOfCars);
+        else if (drawCar == 1)
+            return new Volkswagen(randomNumberOfCars);
+        else
+            return new Opel(randomNumberOfCars);
     }
-
-
 
 }
