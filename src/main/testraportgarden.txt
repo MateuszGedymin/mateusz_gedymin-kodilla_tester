@@ -1,0 +1,735 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1672416286578,652,HTTP Request,200,OK,Thread Group 1-1,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,555,0,512
+1672416286578,563,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,555,0,512
+1672416287144,86,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,24,0,0
+1672416286580,663,HTTP Request,200,OK,Thread Group 1-3,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,564,0,534
+1672416286580,565,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,564,0,534
+1672416287145,98,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,29,0,0
+1672416286814,453,HTTP Request,200,OK,Thread Group 1-13,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,319,0,279
+1672416286814,336,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,319,0,279
+1672416287150,117,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,28,0,0
+1672416286932,341,HTTP Request,200,OK,Thread Group 1-15,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,220,0,161
+1672416286932,220,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,220,0,161
+1672416287153,120,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,30,0,0
+1672416286579,669,HTTP Request,200,OK,Thread Group 1-4,text,true,,101665,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,565,0,540
+1672416286579,566,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,849,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,565,0,540
+1672416286700,576,HTTP Request,200,OK,Thread Group 1-10,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,433,0,392
+1672416286700,450,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,433,0,392
+1672416287150,126,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,30,0,0
+1672416287145,103,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100816,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,25,0,0
+1672416286853,401,HTTP Request,200,OK,Thread Group 1-14,text,true,,101665,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,296,0,277
+1672416286853,296,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,849,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,296,0,277
+1672416287150,104,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100816,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,27,0,0
+1672416286578,707,HTTP Request,200,OK,Thread Group 1-6,text,true,,101665,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,580,0,552
+1672416286578,580,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,849,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,580,0,552
+1672416287158,127,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100816,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,23,0,0
+1672416286580,743,HTTP Request,200,OK,Thread Group 1-5,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,593,0,576
+1672416286580,593,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,593,0,576
+1672416287174,149,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,34,0,0
+1672416286739,602,HTTP Request,200,OK,Thread Group 1-11,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,478,0,447
+1672416286739,478,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,478,0,447
+1672416287217,124,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416286668,678,HTTP Request,200,OK,Thread Group 1-9,text,true,,101667,330,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,520,0,495
+1672416286668,520,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,850,188,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,520,0,495
+1672416287188,158,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,15,15,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416287268,93,HTTP Request,200,OK,Thread Group 1-13,text,true,,101549,330,17,17,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,30,0,0
+1672416287268,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,732,188,17,17,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,30,0,0
+1672416287298,63,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,17,17,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,22,0,0
+1672416287237,155,HTTP Request,200,OK,Thread Group 1-1,text,true,,101552,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416287237,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,735,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416287298,94,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,29,0,0
+1672416287277,121,HTTP Request,200,OK,Thread Group 1-4,text,true,,101547,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,26,0,0
+1672416287277,26,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,731,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,26,0,0
+1672416287304,94,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100816,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,26,0,0
+1672416287279,123,HTTP Request,200,OK,Thread Group 1-14,text,true,,101547,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,24,0,0
+1672416287279,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,731,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,24,0,0
+1672416287304,98,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100816,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416287276,128,HTTP Request,200,OK,Thread Group 1-10,text,true,,101549,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,27,0,0
+1672416287276,27,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,732,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,27,0,0
+1672416287304,100,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,42,0,0
+1672416287261,144,HTTP Request,200,OK,Thread Group 1-3,text,true,,101552,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416287261,37,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,735,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,36,0,0
+1672416287298,107,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,51,0,0
+1672416287274,133,HTTP Request,200,OK,Thread Group 1-15,text,true,,101549,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416287274,36,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,732,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,35,0,0
+1672416287310,97,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,45,0,0
+1672416287289,119,HTTP Request,200,OK,Thread Group 1-6,text,true,,101547,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,25,0,0
+1672416287289,25,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,731,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,25,0,0
+1672416287314,94,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100816,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,41,0,0
+1672416287362,107,HTTP Request,200,OK,Thread Group 1-13,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416287362,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,46,0,0
+1672416287408,61,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,20,0,0
+1672416287343,153,HTTP Request,200,OK,Thread Group 1-11,text,true,,101547,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416287343,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,731,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416287410,86,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,25,0,0
+1672416287324,176,HTTP Request,200,OK,Thread Group 1-5,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,85,0,0
+1672416287324,85,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,85,0,0
+1672416287410,90,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416287349,150,HTTP Request,200,OK,Thread Group 1-9,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416287349,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416287410,89,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,30,0,0
+1672416287402,108,HTTP Request,200,OK,Thread Group 1-14,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,23,0,0
+1672416287402,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,23,0,0
+1672416287425,85,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,28,0,0
+1672416287405,109,HTTP Request,200,OK,Thread Group 1-3,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,15,0,0
+1672416287405,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,15,0,0
+1672416287420,94,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416287405,110,HTTP Request,200,OK,Thread Group 1-10,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,21,0,0
+1672416287405,22,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,21,0,0
+1672416287427,88,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,32,0,0
+1672416287397,140,HTTP Request,200,OK,Thread Group 1-1,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,31,0,0
+1672416287397,31,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,31,0,0
+1672416287428,109,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,47,0,0
+1672416287401,143,HTTP Request,200,OK,Thread Group 1-4,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,27,0,0
+1672416287401,27,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,27,0,0
+1672416287431,113,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,47,0,0
+1672416286586,965,HTTP Request,200,OK,Thread Group 1-7,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,824,0,762
+1672416286586,824,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,824,0,762
+1672416287411,140,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,32,0,0
+1672416286579,974,HTTP Request,200,OK,Thread Group 1-2,text,true,,101663,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,831,0,786
+1672416286579,831,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,847,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,831,0,786
+1672416287411,142,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,33,0,0
+1672416287411,146,HTTP Request,200,OK,Thread Group 1-6,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,28,0,0
+1672416287411,28,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,28,0,0
+1672416287440,117,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416287408,151,HTTP Request,200,OK,Thread Group 1-15,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,15,0,0
+1672416287408,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,15,0,0
+1672416287423,136,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,78,0,0
+1672416286785,779,HTTP Request,200,OK,Thread Group 1-12,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,623,0,577
+1672416286785,623,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,623,0,577
+1672416287408,156,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,41,0,0
+1672416286624,960,HTTP Request,200,OK,Thread Group 1-8,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,806,0,765
+1672416286624,806,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,806,0,765
+1672416287430,154,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416287502,125,HTTP Request,200,OK,Thread Group 1-9,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,59,0,0
+1672416287502,59,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,59,0,0
+1672416287561,66,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,38,0,0
+1672416287515,127,HTTP Request,200,OK,Thread Group 1-3,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,61,0,0
+1672416287515,61,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,61,0,0
+1672416287577,65,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,28,0,0
+1672416287499,160,HTTP Request,200,OK,Thread Group 1-11,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416287499,86,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,86,0,0
+1672416287585,74,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,34,0,0
+1672416287500,166,HTTP Request,200,OK,Thread Group 1-5,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416287500,86,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,86,0,0
+1672416287586,80,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,23,0,0
+1672416287558,121,HTTP Request,200,OK,Thread Group 1-6,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,31,0,0
+1672416287558,31,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,31,0,0
+1672416287589,90,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416287553,126,HTTP Request,200,OK,Thread Group 1-2,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416287553,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,44,0,0
+1672416287597,82,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416287560,120,HTTP Request,200,OK,Thread Group 1-15,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416287560,39,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,39,0,0
+1672416287599,81,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416287470,229,HTTP Request,200,OK,Thread Group 1-13,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,92,0,0
+1672416287470,92,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,92,0,0
+1672416287566,133,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,80,0,0
+1672416287515,185,HTTP Request,200,OK,Thread Group 1-10,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416287515,50,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,50,0,0
+1672416287565,135,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416287511,194,HTTP Request,200,OK,Thread Group 1-14,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416287511,52,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,52,0,0
+1672416287564,141,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416287552,155,HTTP Request,200,OK,Thread Group 1-7,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416287552,35,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,35,0,0
+1672416287588,119,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,83,0,0
+1672416287537,191,HTTP Request,200,OK,Thread Group 1-1,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,93,0,0
+1672416287537,93,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,93,0,0
+1672416287630,98,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,51,0,0
+1672416287544,189,HTTP Request,200,OK,Thread Group 1-4,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,85,0,0
+1672416287544,85,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,85,0,0
+1672416287629,104,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416287564,171,HTTP Request,200,OK,Thread Group 1-12,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416287564,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416287631,104,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416287369,364,HTTP Request,500,Internal Server Error,Thread Group 1-18,text,false,Error,38759,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,326,0,236
+1672416287738,6,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.mojpieknyogrod.pl:443 failed to respond,Thread Group 1-18,text,false,Error,2102,0,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,0,0,0
+1672416287643,136,HTTP Request,200,OK,Thread Group 1-3,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416287643,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416287696,83,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,40,0,0
+1672416287628,166,HTTP Request,200,OK,Thread Group 1-9,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416287628,68,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,68,0,0
+1672416287696,98,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,40,0,0
+1672416287663,132,HTTP Request,200,OK,Thread Group 1-11,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,45,0,0
+1672416287663,45,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,45,0,0
+1672416287708,87,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416287585,232,HTTP Request,200,OK,Thread Group 1-8,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,38,0,0
+1672416287585,38,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,38,0,0
+1672416287623,194,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,120,0,0
+1672416287668,204,HTTP Request,200,OK,Thread Group 1-5,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416287668,57,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,57,0,0
+1672416287725,147,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,71,0,0
+1672416287367,506,HTTP Request,200,OK,Thread Group 1-16,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,264,0,220
+1672416287367,264,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,264,0,220
+1672416287632,241,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,113,0,0
+1672416287707,169,HTTP Request,200,OK,Thread Group 1-7,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,33,0,0
+1672416287707,34,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,33,0,0
+1672416287741,135,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416287365,519,HTTP Request,200,OK,Thread Group 1-17,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,307,0,226
+1672416287365,307,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,307,0,226
+1672416287676,208,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416287680,207,HTTP Request,200,OK,Thread Group 1-2,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,55,0,0
+1672416287680,55,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,55,0,0
+1672416287735,152,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,72,0,0
+1672416287706,182,HTTP Request,200,OK,Thread Group 1-14,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416287706,52,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,52,0,0
+1672416287758,130,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416287679,211,HTTP Request,200,OK,Thread Group 1-6,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416287679,57,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,57,0,0
+1672416287736,154,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416287701,192,HTTP Request,200,OK,Thread Group 1-13,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416287701,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,56,0,0
+1672416287757,136,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416287700,196,HTTP Request,200,OK,Thread Group 1-10,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416287700,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,54,0,0
+1672416287754,142,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,64,0,0
+1672416287681,218,HTTP Request,200,OK,Thread Group 1-15,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416287681,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,54,0,0
+1672416287735,164,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,89,0,0
+1672416287446,455,HTTP Request,200,OK,Thread Group 1-19,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,251,0,171
+1672416287446,251,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,251,0,171
+1672416287697,204,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416287460,471,HTTP Request,200,OK,Thread Group 1-23,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,296,0,244
+1672416287460,296,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,296,0,244
+1672416287756,175,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416287452,479,HTTP Request,200,OK,Thread Group 1-21,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,265,0,205
+1672416287452,265,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,265,0,205
+1672416287717,214,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,98,0,0
+1672416287449,485,HTTP Request,200,OK,Thread Group 1-20,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,281,0,219
+1672416287449,281,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,281,0,219
+1672416287730,204,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,82,0,0
+1672416287452,484,HTTP Request,200,OK,Thread Group 1-22,text,true,,101664,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,282,0,225
+1672416287452,282,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,282,0,225
+1672416287734,202,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,84,0,0
+1672416287457,479,HTTP Request,200,OK,Thread Group 1-25,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,295,0,246
+1672416287457,295,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,295,0,246
+1672416287753,183,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416287731,215,HTTP Request,200,OK,Thread Group 1-1,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416287731,86,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,86,0,0
+1672416287817,129,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,84,0,0
+1672416287735,213,HTTP Request,200,OK,Thread Group 1-12,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416287735,78,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,77,0,0
+1672416287813,135,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,88,0,0
+1672416287734,215,HTTP Request,200,OK,Thread Group 1-4,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416287734,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416287810,139,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,89,0,0
+1672416287455,501,HTTP Request,200,OK,Thread Group 1-24,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,280,0,225
+1672416287455,280,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,280,0,225
+1672416287735,221,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,101,0,0
+1672416287796,204,HTTP Request,200,OK,Thread Group 1-11,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,84,0,0
+1672416287796,84,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,84,0,0
+1672416287882,118,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416287780,223,HTTP Request,200,OK,Thread Group 1-3,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,133,0,0
+1672416287780,133,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,133,0,0
+1672416287913,90,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416287817,187,HTTP Request,200,OK,Thread Group 1-8,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416287817,81,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,81,0,0
+1672416287898,106,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416287794,224,HTTP Request,200,OK,Thread Group 1-9,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,119,0,0
+1672416287794,119,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,119,0,0
+1672416287914,104,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416287874,175,HTTP Request,200,OK,Thread Group 1-5,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,61,0,0
+1672416287874,61,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,61,0,0
+1672416287935,114,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416287876,177,HTTP Request,200,OK,Thread Group 1-7,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,59,0,0
+1672416287876,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,59,0,0
+1672416287938,115,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416287894,184,HTTP Request,200,OK,Thread Group 1-13,text,true,,101548,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416287894,70,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,69,0,0
+1672416287964,114,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416287888,190,HTTP Request,200,OK,Thread Group 1-2,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416287888,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416287941,137,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,67,0,0
+1672416287889,193,HTTP Request,200,OK,Thread Group 1-14,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,75,0,0
+1672416287889,75,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,75,0,0
+1672416287964,118,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416287900,204,HTTP Request,200,OK,Thread Group 1-15,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416287900,50,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,50,0,0
+1672416287951,153,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416287875,235,HTTP Request,200,OK,Thread Group 1-16,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,59,0,0
+1672416287875,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,59,0,0
+1672416287937,173,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,85,0,0
+1672416287903,212,HTTP Request,200,OK,Thread Group 1-19,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416287903,57,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,57,0,0
+1672416287960,155,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,61,0,0
+1672416287884,248,HTTP Request,200,OK,Thread Group 1-17,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416287884,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416287947,185,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,88,0,0
+1672416287897,235,HTTP Request,200,OK,Thread Group 1-10,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416287897,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416287964,168,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416287935,206,HTTP Request,200,OK,Thread Group 1-20,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416287935,48,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,48,0,0
+1672416287983,158,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,70,0,0
+1672416287933,208,HTTP Request,200,OK,Thread Group 1-23,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416287933,49,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,49,0,0
+1672416287982,159,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,72,0,0
+1672416287936,207,HTTP Request,200,OK,Thread Group 1-25,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416287936,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,54,0,0
+1672416287991,152,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416287936,209,HTTP Request,200,OK,Thread Group 1-22,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416287936,48,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,48,0,0
+1672416287984,161,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416288054,94,HTTP Request,500,Internal Server Error,Thread Group 1-7,text,false,Error,38759,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,91,0,0
+1672416288149,1,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.mojpieknyogrod.pl:443 failed to respond,Thread Group 1-7,text,false,Error,2102,0,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,0,0,0
+1672416287890,262,HTTP Request,200,OK,Thread Group 1-6,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,70,0,0
+1672416287890,70,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,70,0,0
+1672416287960,192,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416287958,203,HTTP Request,200,OK,Thread Group 1-4,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416287958,49,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,49,0,0
+1672416288007,154,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416287947,214,HTTP Request,200,OK,Thread Group 1-1,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416287947,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416288009,152,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,74,0,0
+1672416287957,208,HTTP Request,200,OK,Thread Group 1-24,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,51,0,0
+1672416287933,232,HTTP Request,200,OK,Thread Group 1-21,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,83,0,0
+1672416287957,51,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,51,0,0
+1672416288009,156,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416287933,84,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,83,0,0
+1672416288017,148,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,78,0,0
+1672416287948,218,HTTP Request,200,OK,Thread Group 1-12,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416287948,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416288014,152,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416287745,430,HTTP Request,200,OK,Thread Group 1-18,text,true,,101665,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,221,0,167
+1672416287745,221,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,848,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,221,0,167
+1672416287966,209,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288004,211,HTTP Request,200,OK,Thread Group 1-3,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,78,0,0
+1672416288004,78,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,78,0,0
+1672416288082,133,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,83,0,0
+1672416288010,206,HTTP Request,200,OK,Thread Group 1-8,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288010,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288087,129,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416288019,229,HTTP Request,200,OK,Thread Group 1-9,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,96,0,0
+1672416288019,96,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,96,0,0
+1672416288115,133,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,64,0,0
+1672416288000,248,HTTP Request,200,OK,Thread Group 1-11,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,100,0,0
+1672416288000,100,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,100,0,0
+1672416288100,148,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416288115,159,HTTP Request,200,OK,Thread Group 1-19,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288115,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416288177,97,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,41,0,0
+1672416288050,231,HTTP Request,200,OK,Thread Group 1-5,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,126,0,0
+1672416288050,127,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,126,0,0
+1672416288177,104,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,45,0,0
+1672416288082,242,HTTP Request,200,OK,Thread Group 1-14,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416288079,245,HTTP Request,200,OK,Thread Group 1-13,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,78,0,0
+1672416288079,245,HTTP Request,200,OK,Thread Group 1-2,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,96,0,0
+1672416288082,77,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,77,0,0
+1672416288079,78,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,78,0,0
+1672416288079,96,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,96,0,0
+1672416288158,166,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,70,0,0
+1672416288175,149,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416288159,165,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288105,221,HTTP Request,200,OK,Thread Group 1-15,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,71,0,0
+1672416288105,71,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,732,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,71,0,0
+1672416288176,150,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416288111,220,HTTP Request,200,OK,Thread Group 1-16,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,67,0,0
+1672416288111,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,67,0,0
+1672416288178,153,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416288145,190,HTTP Request,200,OK,Thread Group 1-22,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416288145,57,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,57,0,0
+1672416288202,133,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416288133,204,HTTP Request,200,OK,Thread Group 1-17,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416288133,68,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,68,0,0
+1672416288134,203,HTTP Request,200,OK,Thread Group 1-10,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416288201,136,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416288134,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,54,0,0
+1672416288188,149,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416288166,175,HTTP Request,200,OK,Thread Group 1-21,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,51,0,0
+1672416288166,51,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,51,0,0
+1672416288217,124,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416288175,177,HTTP Request,200,OK,Thread Group 1-18,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416288175,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,44,0,0
+1672416288219,133,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288143,215,HTTP Request,200,OK,Thread Group 1-23,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288143,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288219,139,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288142,216,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,78,0,0
+1672416288142,78,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,78,0,0
+1672416288220,138,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,72,0,0
+1672416288165,198,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,59,0,0
+1672416288165,59,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,59,0,0
+1672416288225,138,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416288143,223,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416288143,77,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,77,0,0
+1672416288220,146,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416288166,211,HTTP Request,200,OK,Thread Group 1-12,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416288166,63,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,63,0,0
+1672416288229,148,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416288163,214,HTTP Request,200,OK,Thread Group 1-1,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,67,0,0
+1672416288163,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,67,0,0
+1672416288230,147,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416288162,216,HTTP Request,200,OK,Thread Group 1-4,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416288162,68,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,68,0,0
+1672416288231,147,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416288217,167,HTTP Request,200,OK,Thread Group 1-8,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,51,0,0
+1672416288217,51,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,51,0,0
+1672416288268,116,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,75,0,0
+1672416288153,235,HTTP Request,200,OK,Thread Group 1-6,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,87,0,0
+1672416288153,87,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,87,0,0
+1672416288240,148,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,108,0,0
+1672416288216,186,HTTP Request,200,OK,Thread Group 1-3,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288216,77,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288293,109,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416288275,154,HTTP Request,200,OK,Thread Group 1-19,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288275,69,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,69,0,0
+1672416288344,85,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416288248,196,HTTP Request,200,OK,Thread Group 1-9,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,99,0,0
+1672416288248,99,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,99,0,0
+1672416288347,97,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416288249,205,HTTP Request,200,OK,Thread Group 1-11,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416288249,86,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,86,0,0
+1672416288335,119,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288325,133,HTTP Request,200,OK,Thread Group 1-2,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416288325,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416288379,79,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,32,0,0
+1672416288281,177,HTTP Request,200,OK,Thread Group 1-5,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288281,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416288343,115,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288332,140,HTTP Request,200,OK,Thread Group 1-16,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416288332,49,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,49,0,0
+1672416288382,90,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416288342,181,HTTP Request,200,OK,Thread Group 1-21,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,42,0,0
+1672416288342,42,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,42,0,0
+1672416288384,139,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,45,0,0
+1672416288325,203,HTTP Request,200,OK,Thread Group 1-13,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,67,0,0
+1672416288325,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,67,0,0
+1672416288392,136,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,43,0,0
+1672416288325,205,HTTP Request,200,OK,Thread Group 1-14,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,64,0,0
+1672416288325,64,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,64,0,0
+1672416288390,140,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416288151,381,HTTP Request,200,OK,Thread Group 1-7,text,true,,101666,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,196,0,119
+1672416288151,196,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,849,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,196,0,119
+1672416288347,185,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416288338,203,HTTP Request,200,OK,Thread Group 1-10,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,55,0,0
+1672416288338,55,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,55,0,0
+1672416288393,148,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,58,0,0
+1672416288359,183,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416288359,38,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,37,0,0
+1672416288397,145,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416288459,86,HTTP Request,500,Internal Server Error,Thread Group 1-5,text,false,Error,38759,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,83,0,0
+1672416288545,1,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.mojpieknyogrod.pl:443 failed to respond,Thread Group 1-5,text,false,Error,2102,0,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,0,0,0
+1672416288335,226,HTTP Request,200,OK,Thread Group 1-22,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,64,0,0
+1672416288335,64,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,64,0,0
+1672416288399,162,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288326,238,HTTP Request,200,OK,Thread Group 1-15,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416288326,73,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,73,0,0
+1672416288399,165,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416288338,229,HTTP Request,200,OK,Thread Group 1-17,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416288338,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,56,0,0
+1672416288395,172,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,74,0,0
+1672416288364,206,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416288364,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,46,0,0
+1672416288411,159,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,64,0,0
+1672416288353,224,HTTP Request,200,OK,Thread Group 1-18,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416288358,219,HTTP Request,200,OK,Thread Group 1-23,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416288353,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,46,0,0
+1672416288358,36,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,35,0,0
+1672416288400,177,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,88,0,0
+1672416288394,183,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,88,0,0
+1672416288378,202,HTTP Request,200,OK,Thread Group 1-1,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416288378,36,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,36,0,0
+1672416288415,165,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288378,203,HTTP Request,200,OK,Thread Group 1-12,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416288378,36,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,36,0,0
+1672416288415,166,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,83,0,0
+1672416288367,224,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,42,0,0
+1672416288367,42,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,42,0,0
+1672416288409,182,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,96,0,0
+1672416288379,212,HTTP Request,200,OK,Thread Group 1-4,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416288379,37,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,37,0,0
+1672416288416,175,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416288388,210,HTTP Request,200,OK,Thread Group 1-6,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,47,0,0
+1672416288388,47,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,47,0,0
+1672416288435,163,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,88,0,0
+1672416288384,232,HTTP Request,200,OK,Thread Group 1-8,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416288384,48,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,48,0,0
+1672416288432,184,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,112,0,0
+1672416288402,222,HTTP Request,200,OK,Thread Group 1-3,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,99,0,0
+1672416288402,99,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,99,0,0
+1672416288501,123,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,82,0,0
+1672416288430,202,HTTP Request,200,OK,Thread Group 1-19,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,102,0,0
+1672416288430,102,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,102,0,0
+1672416288532,100,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,58,0,0
+1672416288445,204,HTTP Request,200,OK,Thread Group 1-9,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,87,0,0
+1672416288445,87,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,87,0,0
+1672416288532,117,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,84,0,0
+1672416288523,166,HTTP Request,200,OK,Thread Group 1-21,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416288523,68,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,68,0,0
+1672416288592,97,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416288530,161,HTTP Request,200,OK,Thread Group 1-14,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288530,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416288592,99,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416288473,220,HTTP Request,200,OK,Thread Group 1-16,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,111,0,0
+1672416288473,111,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,111,0,0
+1672416288584,109,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416288529,165,HTTP Request,200,OK,Thread Group 1-13,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416288529,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416288590,104,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,51,0,0
+1672416288541,160,HTTP Request,200,OK,Thread Group 1-10,text,true,,101549,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416288541,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,56,0,0
+1672416288597,104,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416288542,161,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,73,0,0
+1672416288542,73,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,73,0,0
+1672416288615,88,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416288532,179,HTTP Request,200,OK,Thread Group 1-7,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288532,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416288598,113,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416288455,272,HTTP Request,200,OK,Thread Group 1-11,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,87,0,0
+1672416288455,87,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,87,0,0
+1672416288542,185,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,122,0,0
+1672416288458,286,HTTP Request,200,OK,Thread Group 1-2,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,86,0,0
+1672416288458,86,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,86,0,0
+1672416288544,200,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,124,0,0
+1672416288582,194,HTTP Request,200,OK,Thread Group 1-12,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416288616,160,HTTP Request,200,OK,Thread Group 1-8,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,33,0,0
+1672416288582,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,733,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416288616,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,33,0,0
+1672416288635,141,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,72,0,0
+1672416288650,126,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416288567,210,HTTP Request,200,OK,Thread Group 1-17,text,true,,101550,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288567,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288643,134,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100816,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416288591,197,HTTP Request,200,OK,Thread Group 1-4,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416288591,50,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,50,0,0
+1672416288641,147,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288580,213,HTTP Request,200,OK,Thread Group 1-1,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416288580,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,56,0,0
+1672416288637,156,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,85,0,0
+1672416288598,204,HTTP Request,200,OK,Thread Group 1-6,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416288598,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416288659,143,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,71,0,0
+1672416288624,182,HTTP Request,200,OK,Thread Group 1-3,text,true,,101551,330,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,40,0,0
+1672416288624,40,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,734,188,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,40,0,0
+1672416288664,142,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,100817,142,25,25,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288571,238,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288571,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416288633,176,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,103,0,0
+1672416288577,235,HTTP Request,200,OK,Thread Group 1-23,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,58,0,0
+1672416288577,58,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,58,0,0
+1672416288636,176,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,104,0,0
+1672416288591,225,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416288591,48,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,48,0,0
+1672416288639,177,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,102,0,0
+1672416288561,261,HTTP Request,200,OK,Thread Group 1-22,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,90,0,0
+1672416288577,245,HTTP Request,200,OK,Thread Group 1-18,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,75,0,0
+1672416288561,90,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,90,0,0
+1672416288652,170,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,101,0,0
+1672416288577,75,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,75,0,0
+1672416288652,170,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,107,0,0
+1672416288564,258,HTTP Request,200,OK,Thread Group 1-15,text,true,,101550,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,88,0,0
+1672416288564,88,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,88,0,0
+1672416288652,170,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100816,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,101,0,0
+1672416288634,192,HTTP Request,200,OK,Thread Group 1-19,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416288634,69,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,68,0,0
+1672416288703,123,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,74,0,0
+1672416288695,193,HTTP Request,200,OK,Thread Group 1-13,text,true,,101551,330,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,74,0,0
+1672416288695,74,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,734,188,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,74,0,0
+1672416288770,118,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,100817,142,24,24,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416288692,200,HTTP Request,200,OK,Thread Group 1-14,text,true,,101551,330,23,23,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,74,0,0
+1672416288692,75,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,734,188,23,23,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,74,0,0
+1672416288767,125,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,100817,142,23,23,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,59,0,0
+1672416288702,201,HTTP Request,200,OK,Thread Group 1-10,text,true,,101551,330,22,22,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288702,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,734,188,22,22,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,65,0,0
+1672416288767,136,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,100817,142,22,22,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288704,207,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,72,0,0
+1672416288704,72,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,72,0,0
+1672416288776,135,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416288728,195,HTTP Request,200,OK,Thread Group 1-11,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288728,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,65,0,0
+1672416288793,130,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,50,0,0
+1672416288690,235,HTTP Request,200,OK,Thread Group 1-21,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288690,77,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288767,158,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,83,0,0
+1672416288694,231,HTTP Request,200,OK,Thread Group 1-16,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288694,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288770,155,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416288650,278,HTTP Request,200,OK,Thread Group 1-9,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,81,0,0
+1672416288650,81,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,81,0,0
+1672416288731,197,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,125,0,0
+1672416288711,220,HTTP Request,200,OK,Thread Group 1-7,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,85,0,0
+1672416288711,85,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,85,0,0
+1672416288796,135,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288744,222,HTTP Request,200,OK,Thread Group 1-2,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,79,0,0
+1672416288744,79,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,79,0,0
+1672416288823,143,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,70,0,0
+1672416288788,179,HTTP Request,200,OK,Thread Group 1-4,text,true,,101550,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416288788,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,733,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,44,0,0
+1672416288833,134,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288776,191,HTTP Request,200,OK,Thread Group 1-12,text,true,,101551,330,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416288776,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,734,188,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416288829,138,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,21,21,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288547,441,HTTP Request,200,OK,Thread Group 1-5,text,true,,101666,330,20,20,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,183,0,109
+1672416288547,183,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,849,188,20,20,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,183,0,109
+1672416288731,257,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,100817,142,20,20,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,126,0,0
+1672416288793,198,HTTP Request,200,OK,Thread Group 1-1,text,true,,101551,330,19,19,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,47,0,0
+1672416288793,47,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,734,188,19,19,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,47,0,0
+1672416288841,150,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,100817,142,19,19,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,82,0,0
+1672416288926,71,HTTP Request,500,Internal Server Error,Thread Group 1-16,text,false,Error,38759,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,67,0,0
+1672416288997,2,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.mojpieknyogrod.pl:443 failed to respond,Thread Group 1-16,text,false,Error,2102,0,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,0,0,0
+1672416288777,224,HTTP Request,200,OK,Thread Group 1-17,text,true,,101550,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,80,0,0
+1672416288777,80,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,733,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,80,0,0
+1672416288857,144,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,75,0,0
+1672416288809,207,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,75,0,0
+1672416288809,75,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,75,0,0
+1672416288884,132,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,55,0,0
+1672416288813,203,HTTP Request,200,OK,Thread Group 1-23,text,true,,101549,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,72,0,0
+1672416288813,72,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,733,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,72,0,0
+1672416288885,131,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100816,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288817,205,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288817,69,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,69,0,0
+1672416288886,136,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,64,0,0
+1672416288823,199,HTTP Request,200,OK,Thread Group 1-18,text,true,,101551,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288823,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416288889,133,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288823,206,HTTP Request,200,OK,Thread Group 1-15,text,true,,101551,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288823,206,HTTP Request,200,OK,Thread Group 1-22,text,true,,101550,330,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,70,0,0
+1672416288823,69,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,734,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,69,0,0
+1672416288823,70,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,733,188,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,70,0,0
+1672416288892,137,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416288893,136,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,18,18,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,74,0,0
+1672416288803,229,HTTP Request,200,OK,Thread Group 1-6,text,true,,101551,330,17,17,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288803,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,734,188,17,17,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,65,0,0
+1672416288869,163,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,100817,142,17,17,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,63,0,0
+1672416288776,259,HTTP Request,200,OK,Thread Group 1-8,text,true,,101551,330,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,76,0,0
+1672416288776,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,734,188,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,76,0,0
+1672416288852,183,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,125,0,0
+1672416288827,242,HTTP Request,200,OK,Thread Group 1-19,text,true,,101551,330,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,111,0,0
+1672416288827,111,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,111,0,0
+1672416288939,130,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,80,0,0
+1672416288911,167,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,75,0,0
+1672416288911,75,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,75,0,0
+1672416288987,91,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416288926,152,HTTP Request,200,OK,Thread Group 1-21,text,true,,101551,330,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,65,0,0
+1672416288926,65,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,65,0,0
+1672416288991,87,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416288932,156,HTTP Request,200,OK,Thread Group 1-7,text,true,,101551,330,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416288923,165,HTTP Request,200,OK,Thread Group 1-11,text,true,,101551,330,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,69,0,0
+1672416288932,62,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,734,188,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,62,0,0
+1672416288923,69,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,734,188,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,69,0,0
+1672416288995,93,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,100817,142,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416288993,95,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,100817,142,16,16,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416288928,163,HTTP Request,200,OK,Thread Group 1-9,text,true,,101551,330,14,14,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288928,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,734,188,14,14,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416288994,97,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,100817,142,14,14,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416288966,179,HTTP Request,200,OK,Thread Group 1-2,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,66,0,0
+1672416288966,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,66,0,0
+1672416289032,113,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416288969,179,HTTP Request,200,OK,Thread Group 1-12,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416288969,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416289029,119,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416289022,138,HTTP Request,200,OK,Thread Group 1-18,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416289022,39,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,39,0,0
+1672416289061,99,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416289017,146,HTTP Request,200,OK,Thread Group 1-23,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416289016,147,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,45,0,0
+1672416289022,141,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416289017,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,44,0,0
+1672416289016,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,45,0,0
+1672416289061,102,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416289022,39,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,39,0,0
+1672416289062,101,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416289061,102,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416289002,161,HTTP Request,200,OK,Thread Group 1-17,text,true,,101549,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,49,0,0
+1672416289002,49,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,733,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,49,0,0
+1672416289051,112,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100816,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,43,0,0
+1672416289029,145,HTTP Request,200,OK,Thread Group 1-22,text,true,,101550,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416289029,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,46,0,0
+1672416289075,99,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100816,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,61,0,0
+1672416289035,165,HTTP Request,200,OK,Thread Group 1-8,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416289035,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416289095,105,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416289069,132,HTTP Request,200,OK,Thread Group 1-19,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416289069,35,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,35,0,0
+1672416289104,97,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,61,0,0
+1672416289078,164,HTTP Request,200,OK,Thread Group 1-21,text,true,,101550,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,85,0,0
+1672416289078,85,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,85,0,0
+1672416289163,79,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100816,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,38,0,0
+1672416289078,166,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,67,0,0
+1672416289078,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,67,0,0
+1672416289145,99,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,62,0,0
+1672416289145,102,HTTP Request,200,OK,Thread Group 1-2,text,true,,101551,330,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,30,0,0
+1672416289145,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,734,188,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,30,0,0
+1672416289175,72,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,100817,142,13,13,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,28,0,0
+1672416289148,112,HTTP Request,200,OK,Thread Group 1-12,text,true,,101551,330,12,12,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,31,0,0
+1672416289148,32,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,734,188,12,12,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,31,0,0
+1672416289180,80,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,100817,142,12,12,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416289175,107,HTTP Request,200,OK,Thread Group 1-22,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,25,0,0
+1672416289175,25,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,25,0,0
+1672416289200,82,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,44,0,0
+1672416289160,125,HTTP Request,200,OK,Thread Group 1-18,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,40,0,0
+1672416289160,40,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,40,0,0
+1672416289200,85,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416289000,302,HTTP Request,200,OK,Thread Group 1-16,text,true,,101666,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,164,0,99
+1672416289000,164,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,849,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,164,0,99
+1672416289164,138,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416289163,147,HTTP Request,200,OK,Thread Group 1-23,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416289163,147,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416289163,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416289163,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,54,0,0
+1672416289217,93,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416289217,93,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,43,0,0
+1672416289163,152,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,54,0,0
+1672416289163,152,HTTP Request,200,OK,Thread Group 1-17,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,57,0,0
+1672416289163,54,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,54,0,0
+1672416289217,98,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,48,0,0
+1672416289163,57,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,57,0,0
+1672416289220,95,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416289245,103,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,41,0,0
+1672416289245,41,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,41,0,0
+1672416289286,62,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,29,0,0
+1672416289201,156,HTTP Request,200,OK,Thread Group 1-19,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,59,0,0
+1672416289200,157,HTTP Request,200,OK,Thread Group 1-8,text,true,,101551,330,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,60,0,0
+1672416289201,59,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,59,0,0
+1672416289200,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,734,188,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,60,0,0
+1672416289260,97,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,68,0,0
+1672416289261,96,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,100817,142,11,11,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,67,0,0
+1672416289242,150,HTTP Request,200,OK,Thread Group 1-21,text,true,,101551,330,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,77,0,0
+1672416289242,77,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,77,0,0
+1672416289319,73,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,32,0,0
+1672416289282,119,HTTP Request,200,OK,Thread Group 1-22,text,true,,101551,330,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416289282,37,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,37,0,0
+1672416289319,82,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,41,0,0
+1672416289286,116,HTTP Request,200,OK,Thread Group 1-18,text,true,,101551,330,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,33,0,0
+1672416289286,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,734,188,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,33,0,0
+1672416289319,83,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,100817,142,10,10,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416289302,102,HTTP Request,200,OK,Thread Group 1-16,text,true,,101551,330,9,9,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,23,0,0
+1672416289302,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,734,188,9,9,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,23,0,0
+1672416289325,79,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,100817,142,9,9,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,43,0,0
+1672416289315,138,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,53,0,0
+1672416289315,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,53,0,0
+1672416289368,85,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416289311,145,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416289311,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,56,0,0
+1672416289368,88,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416289311,145,HTTP Request,200,OK,Thread Group 1-23,text,true,,101551,330,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,56,0,0
+1672416289311,56,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,734,188,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,56,0,0
+1672416289368,88,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,36,0,0
+1672416289315,144,HTTP Request,200,OK,Thread Group 1-17,text,true,,101551,330,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,52,0,0
+1672416289315,52,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,734,188,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,52,0,0
+1672416289368,91,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416289348,113,HTTP Request,200,OK,Thread Group 1-20,text,true,,101551,330,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,37,0,0
+1672416289348,37,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,734,188,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,37,0,0
+1672416289385,76,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,100817,142,8,8,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,38,0,0
+1672416289358,127,HTTP Request,200,OK,Thread Group 1-19,text,true,,101551,330,7,7,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,46,0,0
+1672416289358,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,734,188,7,7,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,46,0,0
+1672416289404,81,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,100817,142,7,7,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,42,0,0
+1672416289392,103,HTTP Request,200,OK,Thread Group 1-21,text,true,,101551,330,6,6,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,33,0,0
+1672416289392,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,734,188,6,6,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,33,0,0
+1672416289426,69,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,100817,142,6,6,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,35,0,0
+1672416289402,111,HTTP Request,200,OK,Thread Group 1-22,text,true,,101551,330,5,5,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,47,0,0
+1672416289402,47,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,734,188,5,5,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,47,0,0
+1672416289449,64,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,100817,142,5,5,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,38,0,0
+1672416289453,92,HTTP Request,200,OK,Thread Group 1-25,text,true,,101551,330,4,4,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,40,0,0
+1672416289453,40,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,734,188,4,4,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,40,0,0
+1672416289493,52,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,100817,142,4,4,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,25,0,0
+1672416289456,103,HTTP Request,200,OK,Thread Group 1-23,text,true,,101551,330,3,3,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416289456,39,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,734,188,3,3,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,39,0,0
+1672416289495,64,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,100817,142,3,3,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,25,0,0
+1672416289456,105,HTTP Request,200,OK,Thread Group 1-24,text,true,,101551,330,2,2,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,39,0,0
+1672416289461,100,HTTP Request,200,OK,Thread Group 1-17,text,true,,101551,330,2,2,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,32,0,0
+1672416289456,39,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,734,188,2,2,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,39,0,0
+1672416289461,32,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,734,188,2,2,https://www.mojpieknyogrod.pl/zakladanie-ogrodu/,32,0,0
+1672416289493,68,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,100817,142,2,2,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,30,0,0
+1672416289495,66,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,100817,142,2,2,https://www.mojpieknyogrod.pl/zakladanie-ogrodu,31,0,0
